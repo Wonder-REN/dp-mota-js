@@ -1,0 +1,5 @@
+name: dp-mota-env
+channels:
+  - default
+dependencies:
+  - python=3.12.*
